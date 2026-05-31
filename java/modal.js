@@ -8,7 +8,7 @@ const catalogo = {
       { nombre: 'Tesla Model 3', marca: 'Tesla', precio: '$749,000', km: '0 km', descripcion: 'Sedán eléctrico con 560 km de autonomía y Autopilot incluido.', imagen: 'autos/electricos/tesla-model3.avif' },
       { nombre: 'Tesla Model Y', marca: 'Tesla', precio: '$989,000', km: '0 km', descripcion: 'SUV eléctrica, la más vendida del mundo. Amplio espacio y gran rendimiento.', imagen: 'autos/electricos/tesla-model-Y.avif' },
       { nombre: 'BMW iX', marca: 'BMW', precio: '$1,850,000', km: '0 km', descripcion: 'SUV eléctrica premium con hasta 630 km de autonomía y tecnología de punta.', imagen: 'autos/electricos/bmwix.jpg' },
-      { nombre: 'Audi e-tron GT', marca: 'Audi', precio: '$2,100,000', km: '12,000 km', descripcion: 'Gran turismo eléctrico con 390 km de autonomía y diseño escultural.', imagen: 'autos/electricos/egt.avif' },
+      { nombre: 'Audi e-tron GT', marca: 'Audi', precio: '$2,100,000', km: '12,000 km', descripcion: 'Gran turismo eléctrico con 390 km de autonomía y diseño escultural.', imagen: 'autos/electricos/auto1.avif' },
       { nombre: 'Porsche Taycan', marca: 'Porsche', precio: '$2,450,000', km: '5,000 km', descripcion: 'El deportivo eléctrico por excelencia. 0-100 km/h en 2.8 segundos.', imagen: 'autos/electricos/taycan.jpg' },
       { nombre: 'BMW i4', marca: 'BMW', precio: '$1,290,000', km: '8,500 km', descripcion: 'Gran Coupé eléctrico con 590 km de autonomía y deportividad innata.', imagen: 'autos/electricos/bmwi4.jpg' },
     ]
